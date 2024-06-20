@@ -2,8 +2,10 @@
 
 This repository contains resources used during the capstone project for Bangkit Machine Learning. The project focuses on building machine learning models for our application. Specifically, we have built image classifier models for Javanese scripts.
 
-<img src="./overview/Layer 2.png" width="400" height="700">
-<img src="./overview/Layer 7.png" width="400" height="700">
+<div style="display: flex; justify-content: space-between;">
+    <img src="./overview/Layer 2.png" width="400" height="700">
+    <img src="./overview/Layer 7.png" width="400" height="700">
+</div>
 
 ## Architecture
 
