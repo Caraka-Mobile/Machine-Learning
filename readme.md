@@ -17,8 +17,6 @@ _Sources: [upgrad.com](https://www.upgrad.com/blog/basic-cnn-architecture/)_
 
 - [Javanese_Script_Classification](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 - [Aksara_Jawa](https://www.kaggle.com/datasets/phiard/aksara-jawa/data)
-- [Rice Leaf Disease Dataset](https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases)
-- [Soil Type Dataset](https://www.kaggle.com/datasets/prasanshasatpathy/soil-types)
 
 ## Models
 
